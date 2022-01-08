@@ -16,11 +16,13 @@ body{
 }
 .headerContent{
     width:100%;
+    
+    /* align-items: center; */
 }
 .items{
     flex-direction: column;
-   width:60%; 
-   margin-left:230px;
+    width:80%; 
+   margin-left:100px;
    align-items: center;
 }
 .star{

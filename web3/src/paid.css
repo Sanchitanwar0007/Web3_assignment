@@ -10,7 +10,7 @@
 .parent{
     width:60%;
     margin:5px auto;
-    border:2px solid white;
+    /* border:2px solid white; */
     background-color: #2F2F2F;
 }
 .paid1,.paid2{
@@ -28,4 +28,7 @@
     padding:auto;
     width:40%;
     justify-content: space-evenly;
+}
+.count h3:nth-child(1){
+    color:#2CB8FC;
 }
