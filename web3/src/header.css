@@ -1,0 +1,54 @@
+
+body{
+    background-color: black;
+    color:white;
+}
+.header-top,.headerContent,.items,.star,.team1,.team2,.teams{
+    display: flex;
+}
+.header-top{
+    flex-direction: column;
+    width:100%;
+    border-bottom: 2px solid grey;
+}
+.header-top i{
+    margin:15px 15px;
+}
+.headerContent{
+    width:100%;
+}
+.items{
+    flex-direction: column;
+   width:60%; 
+   margin-left:230px;
+   align-items: center;
+}
+.star{
+    width:10%;
+    justify-content: flex-end;
+}
+.star i{
+    color:white;
+    font-size:25px;
+}
+.items{
+    font-size:20px;
+}
+.arrow{
+    margin:15px 20px;
+}
+.teams{
+    width:60%;
+    margin:5px auto;
+    justify-content:space-evenly;
+}
+.teams img{
+    margin-top:10px;
+    height:70px;
+}
+.team1,.team2{
+    flex-direction: column;
+}
+.teams p{
+    font-size:40px;
+}

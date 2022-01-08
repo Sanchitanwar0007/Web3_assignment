@@ -1,0 +1,31 @@
+.parent img{
+    height:60px;
+    margin-left:30px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.parent,.paid1,.paid2,.paid,.count{
+    display: flex;
+}
+.parent{
+    width:60%;
+    margin:5px auto;
+    border:2px solid white;
+    background-color: #2F2F2F;
+}
+.paid1,.paid2{
+    flex-direction: column;
+    margin-left:20px;
+    justify-content: space-evenly;
+}
+.paid2 h3{
+    margin-left:5px;
+}
+
+.count{
+    flex-direction: column;
+    align-items: center;
+    padding:auto;
+    width:40%;
+    justify-content: space-evenly;
+}
