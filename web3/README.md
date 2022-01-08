@@ -1,4 +1,9 @@
 <h1>Sanchit Kumar</h1>
+
+![image](https://user-images.githubusercontent.com/55825984/148656271-55b9f17a-d9ba-4ddc-8367-ec963c7332e6.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
