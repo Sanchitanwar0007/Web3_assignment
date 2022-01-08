@@ -29,6 +29,6 @@
     width:40%;
     justify-content: space-evenly;
 }
-.count h3:nth-child(1){
+.count h3:nth-child(2){
     color:#2CB8FC;
 }
